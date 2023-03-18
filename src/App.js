@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deployment ongoing<br/><span style={{float:"right"}}>- Caleb</span>
+          Deployment Done<br/><span style={{float:"right"}}>- Caleb</span>
         </p>
         <a
           className="App-link"
